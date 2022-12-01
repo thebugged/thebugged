@@ -1,6 +1,6 @@
 ![Design and Development](https://github.com/thebugged/thebugged/blob/main/GitHub%20Banner.png)
 
-# Maikyau Israel
+# About
 I'm Israel, and I do web & game design and development. I also develop AI models that solve a variety of problems. I enjoy UI and UX as well.
 
 ## Skills & Experience
