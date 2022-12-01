@@ -15,5 +15,5 @@ I'm Israel, and I do web & game design and development. I also develop AI models
 
 
 ## Social
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thebugged)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maikyauisrael/)   
+[<img src='https://img.icons8.com/bubbles/2x/github.png' alt='github' height='40'>](https://github.com/thebugged)  [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/maikyauisrael/)   
 
