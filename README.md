@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/thebugged/thebugged/blob/main/GitHub%20Banner.png)
+![Design and Development](https://github.com/thebugged/thebugged/blob/main/Banner.gif)
 ![Profile views](https://gpvc.arturio.dev/thebugged)  
 
 ## About
