@@ -1,4 +1,5 @@
 ![Design and Development](https://github.com/thebugged/thebugged/blob/main/GitHub%20Banner.png)
+![Profile views](https://gpvc.arturio.dev/thebugged)  
 
 ## About
 I'm Israel, and I do web & game design and development. I also develop AI models that solve a variety of problems. I enjoy UI and UX as well.
@@ -9,6 +10,10 @@ I'm Israel, and I do web & game design and development. I also develop AI models
 * 👾 Unity
 
 
+## Stats
+![GitHub streak stats](https://streak-stats.demolab.com/?user=thebugged)   
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thebugged)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maikyauisrael/)  
+
+## Social
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thebugged)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maikyauisrael/)   
 
