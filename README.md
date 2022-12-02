@@ -11,7 +11,7 @@ I'm Israel, and I do web & game design and development. I also develop AI models
 
 
 ## Stats
-![GitHub streak stats](https://streak-stats.demolab.com/?user=thebugged)   
+![GitHub streak stats](https://streak-stats.demolab.com/?user=thebugged&&theme=tokyonight)   
 
 
 ## Social
