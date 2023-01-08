@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/thebugged)  
 
 ## About
-I'm Israel, and I do web & game design and development. I also develop AI models that solve a variety of problems. I enjoy UI and UX as well.
+I'm Israel, and I do web & game design and development. I also develop AI models that solve a variety of problems. I engage in UI and UX as well.
 
 ## Skills & Experience
 * 🐍 Python
