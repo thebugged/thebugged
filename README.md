@@ -10,14 +10,6 @@
 [![Figma](https://img.shields.io/badge/Figma-0E1116?style=for-the-badge&logo=figma)](https://github.com/thebugged)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebugged&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=499&hide_border=true&theme=calm)](https://github.com/thebugged)
-
-
-
-
-
-
-
 <!--
 **thebugged/thebugged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
