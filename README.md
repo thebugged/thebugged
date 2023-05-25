@@ -1,6 +1,7 @@
 <!-- ### Hi there 👋 -->
 
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=fff&color=000000)]()
+
 
 
 
