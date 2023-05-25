@@ -11,7 +11,7 @@
 [![...](https://img.shields.io/badge/...-0E1116?style=for-the-badge)](https://github.com/thebugged)
 
 <p align = 'right'>
-     ## Welcome 
+     <h2>Welcome</h2>  
 </p>
 <!--
 **thebugged/thebugged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
