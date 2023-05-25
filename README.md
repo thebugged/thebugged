@@ -1,8 +1,10 @@
 <!-- ### Hi there 👋 -->
 
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=fff&color=000000)]()
-
-
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/thebugged)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/thebugged)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/thebugged)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/thebugged)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/thebugged)
 
 
 
