@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Python](https://img.shields.io/badge/python-#000080?style=for-the-badge&logo=python)]
+[![Python](https://img.shields.io/badge/python-navy?style=for-the-badge&logo=python)]
 
 
 
