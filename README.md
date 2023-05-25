@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/thebugged)
+[![Python](https://img.shields.io/badge/python-transparent?style=for-the-badge&logo=python)](https://github.com/thebugged)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/thebugged)
 [![Keras](https://img.shields.io/badge/Keras-black?style=for-the-badge&logo=keras)](https://github.com/thebugged)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/thebugged)
