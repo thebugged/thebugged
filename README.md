@@ -1,4 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+[![Python](https://img.shields.io/badge/python-#000080?style=for-the-badge&logo=python)]
+
+
+
+
 
 <!--
 **thebugged/thebugged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
