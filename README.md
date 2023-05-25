@@ -12,7 +12,7 @@
 
 <p align = 'right'>
   <b>
-    <i> Welcome 🥷 </i>
+     Welcome  🥷
   </b>
 </p>
 <!--
