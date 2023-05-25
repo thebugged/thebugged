@@ -5,6 +5,8 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/thebugged)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/thebugged)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/thebugged)
+[![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/thebugged)
+
 
 
 
