@@ -8,7 +8,6 @@
 [![React](https://img.shields.io/badge/react-0E1116?style=for-the-badge&logo=react)](https://github.com/thebugged)
 [![Unity](https://img.shields.io/badge/Unity-0E1116?style=for-the-badge&logo=unity)](https://github.com/thebugged)
 [![Figma](https://img.shields.io/badge/Figma-0E1116?style=for-the-badge&logo=figma)](https://github.com/thebugged)
-
 [![...](https://img.shields.io/badge/...-0E1116?style=for-the-badge)](https://github.com/thebugged)
 
 <!--
