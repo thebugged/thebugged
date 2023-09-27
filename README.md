@@ -10,10 +10,11 @@
 [![Figma](https://img.shields.io/badge/Figma-0E1116?style=for-the-badge&logo=figma)](https://github.com/thebugged)
 [![...](https://img.shields.io/badge/...-0E1116?style=for-the-badge)](https://github.com/thebugged)
 
-<p align = 'right'>
-     Welcome  
-     [![](https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maikyauisrael/)
-</p>
+<div align="right">
+  Welcome  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maikyauisrael/)
+</div>
+
 
 <!--
 **thebugged/thebugged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
