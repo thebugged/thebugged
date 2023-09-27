@@ -12,7 +12,9 @@
 
 <p align = 'right'>
      Welcome  
+     [![](https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maikyauisrael/)
 </p>
+
 <!--
 **thebugged/thebugged** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
