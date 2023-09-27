@@ -11,7 +11,7 @@
 [![...](https://img.shields.io/badge/...-0E1116?style=for-the-badge)](https://github.com/thebugged)
 
 <p align="right">
-  Welcome  
+  hi  
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maikyauisrael)
