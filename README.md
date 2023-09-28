@@ -14,7 +14,7 @@
   hi  
 </p>
 
-[![](https://img.shields.io/badge/-0E1116?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maikyauisrael)
+[![LinkedIn](https://img.shields.io/badge/-0E1116?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maikyauisrael)
 
 
 <!--
