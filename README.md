@@ -6,7 +6,6 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-0E1116?style=for-the-badge&logo=pytorch)](https://github.com/thebugged)
 [![React](https://img.shields.io/badge/react-0E1116?style=for-the-badge&logo=react)](https://github.com/thebugged)
 [![Next.js](https://img.shields.io/badge/Next.js-0E1116?style=for-the-badge&logo=next.js)](https://github.com/thebugged)
-[![Figma](https://img.shields.io/badge/Figma-0E1116?style=for-the-badge&logo=figma)](https://github.com/thebugged)
 [![...](https://img.shields.io/badge/...-0E1116?style=for-the-badge)](https://github.com/thebugged)
 
 <p align="right">
