@@ -3,8 +3,9 @@
 [![Python](https://img.shields.io/badge/python-0E1116?style=for-the-badge&logo=python)](https://github.com/thebugged)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-0E1116?style=for-the-badge&logo=tensorflow)](https://github.com/thebugged)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0E1116?style=for-the-badge&logo=scikit-learn)](https://github.com/thebugged)
-[![PyTorch](https://img.shields.io/badge/PyTorch-0E1116?style=for-the-badge&logo=pytorch)](https://github.com/thebugged)
-[![React](https://img.shields.io/badge/react-0E1116?style=for-the-badge&logo=react)](https://github.com/thebugged)
+[![NumPy](https://img.shields.io/badge/numpy-0E1116?style=for-the-badge&logo=numpy)](https://github.com/thebugged)
+[![Pandas](https://img.shields.io/badge/pandas-0E1116?style=for-the-badge&logo=pandas)](https://github.com/thebugged)
+[![Flask](https://img.shields.io/badge/flask-0E1116?style=for-the-badge&logo=flask)](https://github.com/thebugged)
 [![...](https://img.shields.io/badge/...-0E1116?style=for-the-badge)](https://github.com/thebugged)
 
 <p align="right">
