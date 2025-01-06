@@ -8,7 +8,6 @@
 [![Flask](https://img.shields.io/badge/flask-0E1116?style=for-the-badge&logo=flask)](https://github.com/thebugged)
 [![Streamlit](https://img.shields.io/badge/streamlit-0E1116?style=for-the-badge&logo=streamlit)](https://github.com/thebugged)
 [![SQL](https://img.shields.io/badge/sql-0E1116?style=for-the-badge&logo=mysql)](https://github.com/thebugged)
-[![Matplotlib](https://img.shields.io/badge/matplotlib-0E1116?style=for-the-badge&logo=plotly)](https://github.com/thebugged)
 [![Plotly](https://img.shields.io/badge/plotly-0E1116?style=for-the-badge&logo=plotly)](https://github.com/thebugged)
 [![PyTorch](https://img.shields.io/badge/PyTorch-0E1116?style=for-the-badge&logo=pytorch)](https://github.com/thebugged)
 [![...](https://img.shields.io/badge/...-0E1116?style=for-the-badge)](https://github.com/thebugged)
