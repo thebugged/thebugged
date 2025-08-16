@@ -1,16 +1,16 @@
 <!-- ### Hi there 👋 -->
 
-[![Python](https://img.shields.io/badge/python-0E1116?style=for-the-badge&logo=python)](https://github.com/thebugged)
-[![TensorFlow](https://img.shields.io/badge/tensorflow-0E1116?style=for-the-badge&logo=tensorflow)](https://github.com/thebugged)
-[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0E1116?style=for-the-badge&logo=scikit-learn)](https://github.com/thebugged)
-[![NumPy](https://img.shields.io/badge/numpy-0E1116?style=for-the-badge&logo=numpy)](https://github.com/thebugged)
-[![Pandas](https://img.shields.io/badge/pandas-0E1116?style=for-the-badge&logo=pandas)](https://github.com/thebugged)
-[![Flask](https://img.shields.io/badge/flask-0E1116?style=for-the-badge&logo=flask)](https://github.com/thebugged)
-[![Streamlit](https://img.shields.io/badge/streamlit-0E1116?style=for-the-badge&logo=streamlit)](https://github.com/thebugged)
-[![SQL](https://img.shields.io/badge/sql-0E1116?style=for-the-badge&logo=mysql)](https://github.com/thebugged)
-[![Plotly](https://img.shields.io/badge/plotly-0E1116?style=for-the-badge&logo=plotly)](https://github.com/thebugged)
-[![PyTorch](https://img.shields.io/badge/PyTorch-0E1116?style=for-the-badge&logo=pytorch)](https://github.com/thebugged)
-[![...](https://img.shields.io/badge/...-0E1116?style=for-the-badge)](https://github.com/thebugged)
+<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&color=3776AB" alt="python" />
+<img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow&color=FF6F00" alt="tensorflow" />
+<img src="https://img.shields.io/badge/-Scikit--Learn-black?style=for-the-badge&logo=scikit-learn&color=F7931E" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/-NumPy-black?style=for-the-badge&logo=numpy&color=013243" alt="numpy" />
+<img src="https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=pandas&color=150458" alt="pandas" />
+<img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&color=000000" alt="flask" />
+<img src="https://img.shields.io/badge/-Streamlit-black?style=for-the-badge&logo=streamlit&color=FF4B4B" alt="streamlit" />
+<img src="https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql&color=4479A1" alt="sql" />
+<img src="https://img.shields.io/badge/-Plotly-black?style=for-the-badge&logo=plotly&color=3F4F75" alt="plotly" />
+<img src="https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch&color=EE4C2C" alt="pytorch" />
+<img src="https://img.shields.io/badge/...-0E1116?style=for-the-badge" alt="..." />
 
 <p align="right">
   Hi  
