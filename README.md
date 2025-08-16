@@ -1,5 +1,4 @@
 <!-- ### Hi there 👋 -->
-
 <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&color=3776AB" alt="python" />
 <img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=tensorflow&color=FF6F00" alt="tensorflow" />
 <img src="https://img.shields.io/badge/-Scikit--Learn-black?style=for-the-badge&logo=scikit-learn&color=F7931E" alt="scikit-learn" />
@@ -11,7 +10,6 @@
 <img src="https://img.shields.io/badge/-Plotly-black?style=for-the-badge&logo=plotly&color=3F4F75" alt="plotly" />
 <img src="https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=pytorch&color=EE4C2C" alt="pytorch" />
 <img src="https://img.shields.io/badge/...-0E1116?style=for-the-badge" alt="..." />
-
 <p align="right">
   Hi  
 </p>
